@@ -11,6 +11,8 @@ I made my life a bit easier:
   6) Function to perform segmentation can be found in ``mj_predict.py`` (``segment_image()``) - example of result you can see below
 
 I admit that the example bellow is not fair as the training samples were taken from this image as well :). As the training is very slow on my computer the resulting model is definitelly not perfect and is only to demonstrate that it somehow works:). 
+
+Before you dive into code please call me first: 604320670
   
 
 
